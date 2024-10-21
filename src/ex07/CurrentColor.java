@@ -1,3 +1,5 @@
+package ex07;
+
 import java.awt.Color;
 
 public class CurrentColor {
